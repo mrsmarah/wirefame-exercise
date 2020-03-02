@@ -39,7 +39,7 @@ main section:nth-child(2){
     clear: both;
 }
 main section:nth-child(2) img:nth-child(2){
-    padding: 0 2.6%;
+    padding: 0 22px;
 }
 main section:nth-child(3){
     margin: 0 14% 0 15%;
